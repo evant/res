@@ -66,6 +66,6 @@ All file names will be made valid by striping/replacing invalid characters.
 
 For example,
 ```
-res cp "source/My Badly-named Image.png" app/main/res
+res cp drawable "source/My Badly-named Image.png" app/main/res
 ```
 will convert the name to `my_badly_named_image.png` 
