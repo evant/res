@@ -1,0 +1,12 @@
+[package]
+name = "res"
+version = "0.1.0"
+authors = ["Evan Tatarka <evan@tatarka.me>"]
+
+[dependencies]
+docopt = "0.8"
+serde = "1.0"
+serde_derive = "1.0"
+
+[dev-dependencies]
+tempdir = "0.3"
